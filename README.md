@@ -1,2 +1,2 @@
 # kz_climate_monitoring
-Arduino Based Climate Monitering system For Home
+Arduino Based Climate Monitoring system For Home
