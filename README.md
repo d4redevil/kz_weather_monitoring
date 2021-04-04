@@ -39,8 +39,10 @@ Arduino Based Weather Monitoring system For Home
 Project Goal:
 =
 
-  \*A DIY weather Monitoring System.
-  \*Reading Sensor Data from MQ-2 Sensor and DHT11 Sensor.
-  \*Analizing it ()Whether is reached The Threashold Value.
-  \*We can Request through SMS And it Will Respond with you through SMS.
-  \*
+*A DIY weather Monitoring System.
+  
+*Reading Sensor Data from MQ-2 Sensor and DHT11 Sensor.
+  
+*Analizing it ()Whether is reached The Threashold Value.
+  
+*We can Request through SMS And it Will Respond with you through SMS.
