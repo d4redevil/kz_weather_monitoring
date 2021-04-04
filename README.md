@@ -33,12 +33,3 @@ Project Goal:
   \*Analizing it ()Whether is reached The Threashold Value.
   \*We can Request through SMS And it Will Respond with you through SMS.
   \*
-
-
-
-
-
-
-
-
-
