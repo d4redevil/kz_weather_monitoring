@@ -8,21 +8,21 @@ Arduino Based Weather Monitoring system For Home
 =
 ***Hardware***
 
-*ARDUINO UNO
-*SIM 800l GSM Module
-*Smoke Sensor \(MQ-2\)
-*Temperature And Humidity Sensor \(DHT11\)
-*Liquid Crystal Display \(16x2\)
-*Bread Board
-*Power Supply
-*Jumper Wires
+-ARDUINO UNO
+-SIM 800l GSM Module
+-Smoke Sensor \(MQ-2\)
+-Temperature And Humidity Sensor \(DHT11\)
+-Liquid Crystal Display \(16x2\)
+-Bread Board
+-Power Supply
+-Jumper Wires
 
 ***Software***
   
-*Arduino IDE
-*DHTLibrary
-*LCDLibrary \(inbult\)
-*SoftwareSerial \(inbuilt\)
+-Arduino IDE
+-DHTLibrary
+-LCDLibrary \(inbult\)
+-SoftwareSerial \(inbuilt\)
 
 -------------------------------------
 Project Goal:
