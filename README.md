@@ -43,6 +43,10 @@ Project Goal:
   
 * Reading Sensor Data from MQ-2 Sensor and DHT11 Sensor.
   
-* Analizing it ()Whether is reached The Threashold Value.
+* Analizing it Whether is reached The Threashold Value.
   
 * We can Request through SMS And it Will Respond back to you through SMS.
+
+* We can also See the Status in the display.
+
+-------------------------------------
